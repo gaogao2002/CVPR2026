@@ -1,0 +1,136 @@
+
+On epoch 0 
+['A photo of newcls 8 bread rolls'] 
+Global step: [0] 
+Estimate_num: [504.82672119140625]
+Loss: 1.7199596166610718 
+Img loss: 1.1921272277832031 
+Density loss: 0.052783235907554626 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 oranges'] 
+Global step: [1] 
+Estimate_num: [125.56835174560547]
+Loss: 0.7723193764686584 
+Img loss: 0.7205107808113098 
+Density loss: 0.005180861335247755 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 peaches'] 
+Global step: [2] 
+Estimate_num: [476.3043212890625]
+Loss: 0.9162613153457642 
+Img loss: 0.36038514971733093 
+Density loss: 0.05558761581778526 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 spring rolls'] 
+Global step: [3] 
+Estimate_num: [246.2460479736328]
+Loss: 0.8455548286437988 
+Img loss: 0.7227566838264465 
+Density loss: 0.012279813177883625 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 bread rolls'] 
+Global step: [4] 
+Estimate_num: [896.1754150390625]
+Loss: 1.976046085357666 
+Img loss: 0.3765566945075989 
+Density loss: 0.1599489450454712 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 donuts tray'] 
+Global step: [5] 
+Estimate_num: [398.662841796875]
+Loss: 0.8650370836257935 
+Img loss: 0.547957718372345 
+Density loss: 0.03170793503522873 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 spoon'] 
+Global step: [6] 
+Estimate_num: [229.74832153320312]
+Loss: 0.4866853952407837 
+Img loss: 0.3573974668979645 
+Density loss: 0.012928792275488377 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 penguins'] 
+Global step: [7] 
+Estimate_num: [181.697265625]
+Loss: 0.5391059517860413 
+Img loss: 0.4559003412723541 
+Density loss: 0.008320563472807407 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 bread rolls'] 
+Global step: [8] 
+Estimate_num: [881.3683471679688]
+Loss: 1.924338936805725 
+Img loss: 0.39585646986961365 
+Density loss: 0.1528482437133789 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 chicken wings'] 
+Global step: [9] 
+Estimate_num: [668.1533813476562]
+Loss: 1.3877551555633545 
+Img loss: 0.4344215393066406 
+Density loss: 0.09533336758613586 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 potatoes'] 
+Global step: [10] 
+Estimate_num: [948.9830932617188]
+Loss: 1.9688066244125366 
+Img loss: 0.38263511657714844 
+Density loss: 0.15861715376377106 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 nuts'] 
+Global step: [11] 
+Estimate_num: [320.7486267089844]
+Loss: 1.1422443389892578 
+Img loss: 0.9310568571090698 
+Density loss: 0.021118754521012306 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 candles'] 
+Global step: [12] 
+Estimate_num: [241.8138427734375]
+Loss: 0.4051316976547241 
+Img loss: 0.24512392282485962 
+Density loss: 0.01600077748298645 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 strawberries'] 
+Global step: [13] 
+Estimate_num: [243.31077575683594]
+Loss: 0.8276711702346802 
+Img loss: 0.7064127326011658 
+Density loss: 0.012125841341912746 
+-------------------------------------- 
+
+On epoch 0 
+['A photo of newcls 8 penguins'] 
+Global step: [14] 
+Estimate_num: [452.0977783203125]
+Loss: 1.0254430770874023 
+Img loss: 0.43914365768432617 
+Density loss: 0.058629948645830154 
+-------------------------------------- 
+
